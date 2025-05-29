@@ -31,7 +31,7 @@ Comparative graphs between countries like India, China, and the USA
 
 🛠️ How to Use
 Clone the repository
-git clone https://github.com/your-username/gdp-analysis.git
+git clone https://github.com/Surajgupta5294/gdp-analysis.git
 cd gdp-analysis
 
 Install dependencies
