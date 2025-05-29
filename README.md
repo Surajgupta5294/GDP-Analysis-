@@ -1,5 +1,8 @@
 # GDP-Analysis-
 
+![Alt text]![Screenshot 2025-05-29 101231](https://github.com/user-attachments/assets/d5bc1f34-e964-45e6-8f64-b6644992b517)
+
+
 🌍 GDP Analysis Project
 
 This project provides a comprehensive analysis of global GDP trends from 1960 to 2016 using Python libraries such as pandas, matplotlib, seaborn, and Plotly. The dataset includes GDP values for countries and regions around the world.
