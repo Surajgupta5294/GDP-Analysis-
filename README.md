@@ -1,9 +1,11 @@
 # GDP-Analysis-
 
 🌍 GDP Analysis Project
+
 This project provides a comprehensive analysis of global GDP trends from 1960 to 2016 using Python libraries such as pandas, matplotlib, seaborn, and Plotly. The dataset includes GDP values for countries and regions around the world.
 
 📁 Dataset
+
 .Source: gdp.csv
 
 .Fields:
@@ -17,6 +19,7 @@ This project provides a comprehensive analysis of global GDP trends from 1960 to
    .Value: GDP in current US dollars
 
 📊 Key Features
+
 .Null Value Check & Summary Statistics: Basic data inspection and column descriptions
 
 .Arab World GDP Growth Calculation: Specific analysis of GDP trends in the Arab World
@@ -38,6 +41,7 @@ This project provides a comprehensive analysis of global GDP trends from 1960 to
   .Comparative GDP trends between specific countries
 
 📈 Visualizations
+
 Interactive plots created using Plotly Express:
 
  .Line plots for historical GDP trends
