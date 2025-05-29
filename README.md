@@ -51,30 +51,42 @@ Interactive plots created using Plotly Express:
  .Comparative graphs between countries like India, China, and the USA
 
 🛠️ How to Use
+
 1 Clone the repository
+
 git clone https://github.com/Surajgupta5294/gdp-analysis.git
 cd gdp-analysis
 
 2 Install dependencies
+
 pip install pandas numpy matplotlib seaborn plotly
 
 3 Run the script
+
 python gdp_analysis.py
 
 4 Open output
+
 The script will display interactive plots directly in your browser or IDE.
 
 🧮 Dependencies
+
 . pandas
+
 . numpy
+
 . matplotlib
+
 . seaborn
+
 . plotly
 
 📌 Notes
+
  . The script calculates GDP growth as the percentage change year-over-year.
  
  . Ensure gdp.csv is in the same directory as the script before execution.
 
 📃 License
+
 This project is licensed under the MIT License.
