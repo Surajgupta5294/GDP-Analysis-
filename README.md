@@ -2,6 +2,10 @@
 
 ![Alt text]![Screenshot 2025-05-29 101231](https://github.com/user-attachments/assets/d5bc1f34-e964-45e6-8f64-b6644992b517)
 
+![Alt text]![Screenshot 2025-05-29 101246](https://github.com/user-attachments/assets/b9f37630-52cc-4353-a798-8734273db228)
+
+![Alt text]![Screenshot 2025-05-29 101323](https://github.com/user-attachments/assets/3bd2e60e-6225-48f2-8d80-f6ab3c692cfb)
+
 
 🌍 GDP Analysis Project
 
